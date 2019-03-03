@@ -2,12 +2,12 @@
      "DataList": [{
         "ImageUrlList": ["https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d51qvuj30ku0kugnz.jpg","https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d4lkj1j30ku0kujt4.jpg"],
         "Name": "像素风景",
-        "Content": "有一股清流,叫像素风",
+        "Content": "有一股清流,叫像素风。",
         "Timestamp":"1551402751"
     }, {
         "ImageUrlList": ["https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d69thrj30j60j6tbx.jpg","https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d62huwj30j60j641i.jpg"],
         "Name": "短发女孩",
-        "Content": "长长短短 短短长长 一寸一寸在挣扎",
+        "Content": "长长短短 短短长长 一寸一寸在挣扎。",
         "Timestamp":"1550801589"
      }, {
         "ImageUrlList": ["https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d2jjzsj30dw0dmdgc.jpg","https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d5t07kj30ku0kumzz.jpg"],
@@ -29,7 +29,7 @@
      }, {
         "ImageUrlList": ["https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d48y2wj30dw0dwt9p.jpg","https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d4eyjsj30dw0dwq41.jpg","https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d2y69mj30jg0jg74w.jpg","https://ws1.sinaimg.cn/large/006Kc7Xqgy1g0q4d32xtwj30jg0jg3z5.jpg"],
         "Name": "黑与白",
-        "Content": "黑与白，男与女",
+        "Content": "黑与白，男与女。",
         "Timestamp":"1548381721"
      }]
    
